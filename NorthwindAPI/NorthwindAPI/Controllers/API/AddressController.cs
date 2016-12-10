@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json;
-using NorthwindAPI.DBModels;
+using AdventureWorksAPI.DBModels;
 using System.Data;
 using System.Data.Entity.Infrastructure;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Net;
 using System.Web.Http;
 using System.Web.Http.Description;
 
-namespace NorthwindAPI.Controllers.API
+namespace AdventureWorksAPI.Controllers.API
 {
     public class AddressController : ApiController
     {

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NorthwindAPI.DBModels
+namespace AdventureWorksAPI.DBModels
 {
     using System;
     using System.Data.Entity;

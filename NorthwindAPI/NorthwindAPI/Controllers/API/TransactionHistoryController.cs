@@ -8,9 +8,9 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Description;
-using NorthwindAPI.DBModels;
+using AdventureWorksAPI.DBModels;
 
-namespace NorthwindAPI.Controllers.API
+namespace AdventureWorksAPI.Controllers.API
 {
     public class TransactionHistoryController : ApiController
     {
