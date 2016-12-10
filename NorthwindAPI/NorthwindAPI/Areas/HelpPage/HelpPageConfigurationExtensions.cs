@@ -7,9 +7,9 @@ using System.Linq;
 using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Description;
-using NorthwindAPI.Areas.HelpPage.Models;
+using AdventureWorksAPI.Areas.HelpPage.Models;
 
-namespace NorthwindAPI.Areas.HelpPage
+namespace AdventureWorksAPI.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

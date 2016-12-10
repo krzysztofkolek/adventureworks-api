@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace NorthwindAPI.Controllers
+namespace AdventureWorksAPI.Controllers
 {
     public class HomeController : Controller
     {

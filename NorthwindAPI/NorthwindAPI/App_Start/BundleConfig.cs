@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace NorthwindAPI
+namespace AdventureWorksAPI
 {
     public class BundleConfig
     {

@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace NorthwindAPI.Areas.HelpPage
+namespace AdventureWorksAPI.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

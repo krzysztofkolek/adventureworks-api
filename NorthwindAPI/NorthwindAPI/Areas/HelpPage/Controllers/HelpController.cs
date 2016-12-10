@@ -1,9 +1,9 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using NorthwindAPI.Areas.HelpPage.Models;
+using AdventureWorksAPI.Areas.HelpPage.Models;
 
-namespace NorthwindAPI.Areas.HelpPage.Controllers
+namespace AdventureWorksAPI.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

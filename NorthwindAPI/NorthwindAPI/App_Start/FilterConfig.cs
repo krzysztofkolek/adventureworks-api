@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace NorthwindAPI
+namespace AdventureWorksAPI
 {
     public class FilterConfig
     {

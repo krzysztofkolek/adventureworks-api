@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace NorthwindAPI.Areas.HelpPage
+namespace AdventureWorksAPI.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {
