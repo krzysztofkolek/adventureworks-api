@@ -101,9 +101,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NorthwindAPI\NorthwindAPI.csproj">
+    <ProjectReference Include="..\NorthwindAPI\AdventureWorksAPI.csproj">
       <Project>{F494F1AD-8072-4CDD-85FC-030CFFAF41D2}</Project>
-      <Name>NorthwindAPI</Name>
+      <Name>AdventureWorksAPI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -5,10 +5,10 @@ using System.Net.Http;
 using System.Text;
 using System.Web.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NorthwindAPI;
-using NorthwindAPI.Controllers;
+using AdventureWorksAPI;
+using AdventureWorksAPI.Controllers;
 
-namespace NorthwindAPI.Tests.Controllers
+namespace AdventureWorksAPI.Tests.Controllers
 {
     [TestClass]
     public class ValuesControllerTest
